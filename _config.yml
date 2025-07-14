@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Andrew Mizener, Astronomer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Andrew Mizener"
+description              : &description "I'm a PhD candidate at UMass Amherst interested in extragalactic dust! Though my thesis work focuses primarily on dust attenuation curves, I'm also interest in luminous dusty galaxies at high redshift as well as dust's impact on SED fitting."
 url                      : https://amizener64.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amizener64/amizener64.github.io"
@@ -23,22 +23,22 @@ repository               : "amizener64/amizener64.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andrew Mizener"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a PhD candidate at UMass Amherst interested in extragalactic dust! Though my thesis work focuses primarily on dust attenuation curves, I'm also interest in luminous dusty galaxies at high redshift as well as dust's impact on SED fitting"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UMass Amherst"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "amizener@astro.umass.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
