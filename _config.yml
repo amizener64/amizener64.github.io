@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Andrew Mizener"
-  pronouns         : "he/him# example: "she/her"  
+  pronouns         : "he/him"
   bio              : "I'm a PhD candidate at UMass Amherst interested in extragalactic dust! Though my thesis work focuses primarily on dust attenuation curves, I'm also interest in luminous dusty galaxies at high redshift as well as dust's impact on SED fitting."
   location         : "Amherst"
   employer         : "UMass Amherst"
@@ -222,9 +222,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
