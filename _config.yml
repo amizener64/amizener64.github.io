@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile-2.png"
   name             : "Andrew Mizener"
-  pronouns         : "hey/they"  
+  pronouns         : "he/they"  
   bio              : "I'm a PhD candidate at UMass Amherst interested in extragalactic dust! Though my thesis work focuses primarily on dust attenuation curves, I'm also interest in luminous dusty galaxies at high redshift as well as dust's impact on SED fitting"
   location         : "Earth"
   employer         : "UMass Amherst"
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2722-6600"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -82,7 +82,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles (First Author)'
+  comanuscripts:
+    title: 'Journal Articles (Coauthor)'
   conferences:
     title: 'Conference Papers'
 
