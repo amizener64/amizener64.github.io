@@ -2,8 +2,7 @@
 title: "First Constraints on the Interstellar Medium Conditions of a Low-mass, Highly Obscured z = 4.27 Main-sequence Galaxy"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: [/publication/2010-10-01-paper-title-number-2https://ui.adsabs.harvard.edu/abs/2024ApJ...970...30M/abstract](https://ui.adsabs.harvard.edu/abs/2024ApJ...970...30M/abstract)
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
