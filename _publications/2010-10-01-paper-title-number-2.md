@@ -3,6 +3,6 @@ title: "CLUES. III. Do User Choices Impact the Results of SED Fitting? Tests of 
 collection: publications
 category: manuscripts
 paperurl: https://ui.adsabs.harvard.edu/abs/2025ApJ...989..114M/abstract
-date: 2024-12-07
+date: 2025-12-07
 venue: 'The Astrophysical Journal'
 ---
