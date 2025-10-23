@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "First Constraints on the Interstellar Medium Conditions of a Low-mass, Highly Obscured z = 4.27 Main-sequence Galaxy"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
